@@ -15,6 +15,6 @@ def introduction_task():
     num2 = 7
     result = add_numbers(num1, num2)
     print(f"The result of adding {num1} and {num2} is: {result}")
-
+    print(result * 2) #ADDED CHANGE
 # Run the task
 introduction_task()
